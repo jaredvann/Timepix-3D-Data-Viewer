@@ -1,0 +1,15 @@
+# HITS / SCROLLING MODE
+
+hit_limit = 100000
+
+default_window_size = 1000 # us
+default_step_size = 1000 # us
+
+# APPEARANCE
+
+default_hit_size = 4
+
+# Additional colormaps can be found here:
+#   https://matplotlib.org/3.1.1/tutorials/colors/colormaps.html
+# When opening the first colormap in the array is used as the default
+colormaps = ["viridis", "hot", "gray", "hsv"]
